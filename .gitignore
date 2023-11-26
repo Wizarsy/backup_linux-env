@@ -1,0 +1,45 @@
+# extension
+*.ini
+*.exe
+*.cle
+*.sym
+*.code-workspace
+*csproj
+
+
+# folders
+**/.vscode
+**/__pycache__
+**/binary
+**/data
+**/env
+**/_BOLSA
+**/Workspaces
+
+
+
+# C#
+# Arquivos de compilação
+**/bin
+**/obj
+*.dll
+
+# Arquivos gerados automaticamente
+*.suo
+*.user
+*.bak
+*.cache
+
+# Diretório de pacotes NuGet
+**/packages
+
+# Arquivos de configuração
+Web.config
+App.config
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp

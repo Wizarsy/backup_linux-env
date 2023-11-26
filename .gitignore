@@ -3,7 +3,6 @@
 *.exe
 *.cle
 *.sym
-*.code-workspace
 
 
 # folders

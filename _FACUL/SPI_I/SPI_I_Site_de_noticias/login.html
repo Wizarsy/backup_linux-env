@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login</title>
+  <link rel="stylesheet" href="main.css">
+  <link rel="icon" href="lib/icon.png">
+</head>
+
+<body>
+  <header class="topo-pagina">
+    <div class="nome">
+      <a href="index.html"><img src="lib/GC.png"></a>
+    </div>
+    <div class="menu-principal">
+      <nav class="menu">
+        <ul>
+          <li>
+            <a href="index.html">HOME</a>
+          </li>
+          <li>
+            <a href="login.html">LOGIN</a>
+          </li>
+          <li>
+            <a href="busca.html">BUSCA</a>
+          </li>
+          <li>
+            <div class="toggle">
+              <input id="switch" type="checkbox" name="theme">
+              <label for="switch">Toggle</label>DARK/LIGHT MODE
+            </div>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="mainlog">
+    <div class="login">
+      <form class="card">
+        <div class="card-header">
+          <h2>Login</h2>
+          <div id="msgErro"></div>
+          <div id="msgSucesso"></div>
+        </div>
+        <div class="card-content">
+          <div class="card-content-area">
+            <label for="usuario" id="labelusuario">Usuário</label>
+            <input type="text" id="usuario">
+          </div>
+          <div class="card-content-area">
+            <label for="senha" id="labelsenha">Senha</label>
+            <input type="password" id="senha">
+          </div>
+        </div>
+        <div class="card-footer">
+          <button type="button" onclick="entrar()" class="submit">Entrar</button>
+        </div>
+        <div class="cad">
+          <a href="cadastro.html">Não tem uma conta? Cadastre-se aqui!</a>
+        </div>
+      </form>
+    </div>
+  </main>
+  <script src="main.js"></script>
+  <script src="login.js"></script>
+  <footer class="footer">
+    <div class="rodapé">
+      <p>
+        Site de notícias desenvolvido pelos alunos de graduação Felipe Robaina, Filipe Madruga e Rafaela
+        Barcelos, para o trabalho Complementar do 3° Bimestre de Sistemas para Internet I de Sistemas de
+        Informação, C3 - FURG.
+      </p>
+    </div>
+    <div class="contato">
+      <a href="contato.html">Contato</a>
+    </div>
+  </footer>
+</body>
+
+</html>

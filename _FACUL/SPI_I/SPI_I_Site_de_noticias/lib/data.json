@@ -1,0 +1,43 @@
+[
+    {
+        "news": "Live 01/02/2022 - Números do Brasil voltam a piorar e variante BA.2 | Atila Iamarino",
+        "news_url": "https://www.youtube.com/watch?v=iD_d9pWsuLY",
+        "news_image":"https://img.youtube.com/vi/iD_d9pWsuLY/maxresdefault.jpg"
+    },
+
+    {
+        "news": "O Dia que os Dinossauros Morreram - Minuto por Minuto | Kurzgesagt – In a Nutshell",
+        "news_url": "https://www.youtube.com/watch?v=dFCbJmgeHmA",
+        "news_image":"https://img.youtube.com/vi/dFCbJmgeHmA/maxresdefault.jpg"
+    },
+
+    {
+        "news": "Construir uma base em Marte é uma péssima ideia: Vamos construí-la! | Kurzgesagt – In a Nutshell",
+        "news_url": "https://www.youtube.com/watch?v=uqKGREZs6-w",
+        "news_image":"https://img.youtube.com/vi/uqKGREZs6-w/maxresdefault.jpg"
+    },
+
+    {
+        "news": "Why 3D Printing Batteries Matters | Undecided with Matt Ferrell",
+        "news_url": "https://www.youtube.com/watch?v=Jlt8_z86F-o",
+        "news_image":"https://img.youtube.com/vi/Jlt8_z86F-o/maxresdefault.jpg"
+    },
+
+    {
+        "news": "FIM DA MONTAGEM DO JAMES WEBB! O ESPELHO PRIMÁRIO! | Space Today",
+        "news_url": "https://www.youtube.com/watch?v=60ljQv-EvQo",
+        "news_image":"https://img.youtube.com/vi/60ljQv-EvQo/maxresdefault.jpg"
+    },
+
+    {
+        "news": "Why Wind Power Ships May Be The Future of Transportation | Undecided with Matt Ferrell",
+        "news_url": "https://www.youtube.com/watch?v=MdI191-vNlc",
+        "news_image":"https://img.youtube.com/vi/MdI191-vNlc/maxresdefault.jpg"
+    },
+
+    {
+        "news": "ORIGEM DOS DINOSSAUROS (TRIÁSSICO) | Canal do Pirula",
+        "news_url": "https://www.youtube.com/watch?v=q4SmMz-qUxc",
+        "news_image":"https://img.youtube.com/vi/q4SmMz-qUxc/maxresdefault.jpg"
+    }
+]

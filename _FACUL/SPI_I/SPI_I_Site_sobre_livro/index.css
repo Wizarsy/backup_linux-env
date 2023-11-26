@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;800&display=swap');
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body{
+  background:#121212;
+}
+
+iframe{
+
+}
+
+.logo{
+  width: 25%;
+
+}
+.showcase a{
+  display: inline-block;
+  font-size: 1em;
+  background: black;
+  padding: 10px 30px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 500;
+  margin-top: 10px;
+  color: white;
+  letter-spacing: 2px;
+  transition: 0.2s;
+}
+
+.showcase a:hover{
+  letter-spacing: 6px;
+}
+
+
+.showcase header{
+  font-size: 1em;
+  background: white;
+  padding: 10px 30px;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: black;
+  letter-spacing: 2px;
+  text-align: center;
+}
+
+.showcase{
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 10px;
+  text-align: justify;
+}
+
+.video{
+  background: white;
+}
+
+.video iframe{
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+}
+.livro{
+  display: block;
+  margin: 0 auto;
+}
+
+.text{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background: white;
+  padding: 10px 30px;
+
+}
+
+.text h2{
+  text-align: center;
+}
+
+.text p{
+  background: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.showcase{
+  position: absolute;
+  right:0;
+  padding: 100px;
+  justify-content: space-between;
+  align-items: center;
+  background: black;
+  color: white;
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.showcase header{
+  position: absolute;
+  top: 0;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 40px 100px;
+  z-index: 1000;
+}
+
+.logo{
+  text-transform: uppercase;
+  cursor: pointer;
+  text-align: right;
+}
+
+.dark{
+  position: relative;
+  width: 60px;
+  height: 60px;
+  background: url(https://i.ibb.co/HrfVRcx/menu.png);
+  background-repeat: no-repeat;
+  background-size: 30px;
+  background-position: center;
+  cursor: pointer;
+}
+
+img{
+  width: 100%;
+  display: none;
+}
+
+iframe{
+  display: none;
+}

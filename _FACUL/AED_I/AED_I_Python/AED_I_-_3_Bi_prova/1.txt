@@ -1,0 +1,2 @@
+No primeiro caso a variavel "nome" guarda um valor do tipo string, quando a variavel "nome2" recebeu a outra o que aconteceu é que foi feita um copia do valor. (Passagem por valor)
+Já no segundo caso a variavel "nome" era uma lista e valor que ela guarda é na verdadade o endereço do inicio da lista. Por isso o que ocorre na verdade é que a variavel "nome2" começa a guarda o mesmo enderço que a variavel "nome", significando que se alterar uma também vai alterar a outra. (Passagem por referencia)

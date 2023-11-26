@@ -1,0 +1,9 @@
+[submodule "_FACUL/AIC_II/AIC_II_ERP"]
+	path = _FACUL/AIC_II/AIC_II_ERP
+	url = https://github.com/Wizarsy/ERP.git
+[submodule "_PROJETOS/Fembot"]
+	path = _PROJETOS/Fembot
+	url = https://github.com/Wizarsy/Discord_MusicBot.git
+[submodule "_GERAL/EU/wizarsy"]
+	path = _GERAL/EU/wizarsy
+	url = https://github.com/Wizarsy/wizarsy.git
